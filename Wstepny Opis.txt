@@ -1,0 +1,2 @@
+Kalkuator elektronika w technologii WPF. 
+Kompleksowe narzędzie do obliczeń wykorzystywanych w trakcie projektowania urządzeń elektronicznych bazujące na standardach IPC. Wspiera codzienną pracę inżyniera, umożliwiając obliczenia takie jak: pojemność prądowa ścieżek, parametry połączeń termalnych, wyznaczanie względnej przenikalności elektrycznej, itp.
