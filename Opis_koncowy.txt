@@ -1,0 +1,17 @@
+Link do youtouba... 
+https://youtu.be/jBQZsLjA9Y4
+
+Przepraszam, że tak cicho... (dzieci śpią;) )
+
+Aplikacja stworzona w technologii WPF. Na chwile obecną posiada 6 zakładek. 
+Jest możliwość wprowadzania danych (tylko dodatnie cyfry i liczby zmiennoprzecinkowe) - ograniczenie to zostało osiągniete za pomocą wyrażenia regularnego w c#.
+Pojawiają się również pola służące tylko do odczytu. Użyte textboxy mają ograniczoną ilość wpisywanych cyfr.
+Każda zakładka posiada buttony compute - oblicza wartość i clean - czyści wszystkie textboxy. W przypadku wprowadzenia błędnych danych pojawia się messagebox z informacją.
+Każda zakładka posiada linki odsyłające do wikipedii. Wklejone są tam również rysnki. W przypadku 3 zakładek rysunki wyświetlane są w zależności od wybranego radiobuttona.
+Od wybranej opcji zależy również wynik końcowy. 
+W przypadku jednej zakładki został urzyty suwak, którego przesuwanie umożliwia zmianę wyliczonej wartości długości fali.
+Jeśli chodzi o kod xamla to dodatkowo zablokowałam możliwość zwiększania rozmiaru okna oraz zmieniłam ikonę aplikacji.
+
+W kodzie c# stworzyłam 4 klasy i 2 interfejsy. Kolejne zakładki  z xamla oddzielone są komentarzami. Pisząc kod starałam się uwzględnić wpisanie błędnych danych, 
+co skutkuje pojawieniem się messageboxa. Ogolnie tworzyłam metody służace do validacji textboxów, obsugi ekliknięcia przycisku, opcji wybrania radiobuttona, nawigacji linków, obsługa suwaka.
+
